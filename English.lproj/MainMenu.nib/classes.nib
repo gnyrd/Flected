@@ -1,0 +1,18 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {adjustReflection = id; }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                flectedImageView = NSImageView; 
+                reflectVal = NSTextField; 
+                sourceImageView = NSImageView; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = SimpleBlackView; LANGUAGE = ObjC; SUPERCLASS = NSView; }
+    ); 
+    IBVersion = 1; 
+}

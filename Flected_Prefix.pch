@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Flected' target in the 'Flected' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
